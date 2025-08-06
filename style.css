@@ -291,8 +291,15 @@ footer ul li a{
         width: 600px;
         margin-right: 200px;
     }
+    .introduction h3{
+        display:none;
+    }
+    .introduction p{
+        display:none;
+    }
 
 }
+
 
 
 
