@@ -254,9 +254,6 @@ footer ul li a{
         overflow:hidden;
         box-sizing:border-box;
     }
-    header ul li a{
-        display:none;
-    }
     .login{
         display: none;
     }
@@ -296,5 +293,6 @@ footer ul li a{
     }
 
 }
+
 
 
