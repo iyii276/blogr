@@ -264,4 +264,30 @@ footer ul li a{
     .outro{
         background-image: none;
     }
+      footer{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items:center;
+        text-align:center;
+    }
+     .interface img{
+        width:400px;
+        height: 400px;
+    }
+    .interface{
+        padding-right: 20px;
+    }
+    .interface .state{
+        padding-right: 100px;
+        width:200px;
+        justify-self: left;
+        margin-right: 200px;
+    }
+    .outro{
+        justify-self: right;
+        width: 600px;
+        margin-right: 200px;
+    }
+
 }
