@@ -297,8 +297,12 @@ footer ul li a{
     .introduction p{
         display:none;
     }
+    .introduction{
+        display:none;
+    }
 
 }
+
 
 
 
